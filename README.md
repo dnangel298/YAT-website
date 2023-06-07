@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Additional Notes
+
+Install nodejs packages
+Install materialtailwind packages
+Import BrowserRouter for proper routing of each components
+
+# Visit this website on how to use BrowserRouter
+
+https://reactrouter.com/en/main/router-components/browser-router
